@@ -2,10 +2,12 @@
   Hi there 👋
 </h1>
 
+
 <div align="center">
   <img src="https://media.giphy.com/media/Dh5q0sShxgp13DwrvG/giphy.gif" width="600" height="300"/>
 </div>
 
+![](https://komarev.com/ghpvc/?username=krisstopher15)
 <!--
 **Krisstopher15/Krisstopher15** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
