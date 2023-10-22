@@ -14,4 +14,4 @@
 [![My Skills](https://skillicons.dev/icons?i=rust,actix,ts,react,nodejs,postgres,jest,neovim,html,css,tailwind)](https://skillicons.dev)
 
 ## :fire: My Stats:
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=krisstopher15&count=8&layout=donut&hide=html,css)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=krisstopher15&count=8&theme=dark&layout=donut&hide=html,css)](https://github.com/anuraghazra/github-readme-stats)
