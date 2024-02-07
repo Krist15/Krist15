@@ -8,6 +8,3 @@
 
 ### :hammer_and_wrench: Languages and Tools :
 [![My Skills](https://skillicons.dev/icons?i=c,cpp,rust,ts,neovim)](https://skillicons.dev)
-
-## :fire: My Stats:
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=krist15&count=8&theme=dark&layout=donut&hide=html,css)](https://github.com/anuraghazra/github-readme-stats)
